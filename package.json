@@ -1,0 +1,27 @@
+{
+  "name": "backend-series-mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamal126/backend-series-mongoose.git"
+  },
+  "keywords": [
+    "express",
+    "mongoose"
+  ],
+  "author": "Kamal Chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamal126/backend-series-mongoose/issues"
+  },
+  "homepage": "https://github.com/kamal126/backend-series-mongoose#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0"
+  }
+}
