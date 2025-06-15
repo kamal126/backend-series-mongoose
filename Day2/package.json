@@ -24,6 +24,10 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-    "test": "node server,js"
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.15.2"
   }
 }
