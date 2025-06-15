@@ -1,0 +1,28 @@
+{
+  "name": "cloud-backend",
+  "version": "1.0.0",
+  "description": "",
+  "types": "module",
+  "keywords": [
+    "cloud",
+    "backend"
+  ],
+  "homepage": "https://github.com/kamal126/backend-series-mongoose#readme",
+  "bugs": {
+    "url": "https://github.com/kamal126/backend-series-mongoose/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamal126/backend-series-mongoose.git"
+  },
+  "license": "ISC",
+  "author": "kamal chandra",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
