@@ -1,0 +1,29 @@
+{
+  "name": "mongoose-schema",
+  "version": "1.0.0",
+  "description": "mongoose schema created not connection stablished this this connection stablished in further few days",
+  "keywords": [
+    "mongoose",
+    "backend",
+    "nodejs",
+    "js",
+    "express",
+    "modals-creation",
+    "database-Scema-design"
+  ],
+  "homepage": "https://github.com/kamal126/backend-series-mongoose#readme",
+  "bugs": {
+    "url": "https://github.com/kamal126/backend-series-mongoose/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamal126/backend-series-mongoose.git"
+  },
+  "license": "ISC",
+  "author": "Kamal-Chandra",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server,js"
+  }
+}
